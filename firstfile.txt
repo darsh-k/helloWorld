@@ -4,3 +4,4 @@ This is the third one.
 Adding the fourth line of code.
 And the fifth from the master branch itself.
 I'am adding this from subbranch 01 - That it is the 6th line of text 
+OH NO!!! I've added the 7th line from master branch to check how git handles and merge lines of text files.

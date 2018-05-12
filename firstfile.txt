@@ -1,3 +1,5 @@
 This is the new file and the new line from the master directory.
 And this is the second line from the master directory.
 This is the third one.
+Adding the fourth line of code.
+And the fifth from the master branch itself.

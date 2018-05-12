@@ -4,3 +4,5 @@ This is the third one.
 Adding the fourth line of code.
 And the fifth from the master branch itself.
 I'am adding this from subbranch 01 - That it is the 6th line of text 
+Adding the 7th line of code from subbranch 02.
+And the 8th line of this text file is also added from the subbranch 02.
